@@ -1,4 +1,6 @@
 ## Definition:
+In Abstract methods are initiated not define in parent 
+
 Abstraction means hiding unnecessary implementation details and showing only the required features to the user. Users know what to do, not how it works internally.
 
 Real-Life Examples
